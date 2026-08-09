@@ -1,1 +1,0 @@
-// O site foi mantido sem efeitos exagerados para deixar as referências geek discretas.
